@@ -1,0 +1,35 @@
+Date,Retailer,DC,Plant,Product_ID,Qty
+01/01/25,Julie,East,Delhi,Spark Plugs,4
+01/02/25,Adam,West,Kolkata,Clear,4
+02/01/25,Julie,East,Jaipur,Clear,1
+02/01/25,Nabil,South,Mumbai,Clear,2
+02/01/25,Julie,South,Jaipur,Spark Plugs,2
+03/01/25,Adam,South,Carlota,Red,3
+03/01/25,Adam,West,Hyd,Spark Plugs,2
+03/01/25,Julie,East,Jaipur,Spark Plugs,2
+03/01/25,Julie,South,Delhi,Clear,6
+03/01/25,Jessica,South,Kolkata,Red,15
+03/01/25,Jessica,East,Kolkata,Clear,2
+03/01/25,Julie,West,Carlota,Red,2
+03/01/25,Nicole,West,Kolkata,Red,2
+01/01/25,Nicole,East,Mumbai,Spark Plugs,2
+01/01/25,Nabil,South,Mumbai,Spark Plugs,3
+01/01/25,Nicole,West,Kolkata,Rainbow,3
+01/01/25,Julie,South,Kolkata,Spark Plugs,2
+01/01/25,Adam,East,Carlota,Purple,3
+01/01/25,Julie,South,Hyd,Clear,2
+01/01/25,Mike,East,Mumbai,Red,1
+01/01/25,Adam,West,Hyd,Red,3
+01/01/25,Mike,East,Carlota,Red,1
+01/01/25,Nicole,South,Hyd,Rainbow,4
+01/01/25,Julie,East,Hyd,Red,2
+02/01/25,Julie,West,Mumbai,Clear,1
+02/01/25,Nicole,East,Hyd,Spark Plugs,2
+02/01/25,Adam,South,Kolkata,Spark Plugs,1
+02/01/25,Julie,East,Delhi,Spark Plugs,3
+03/01/25,Julie,East,Delhi,Spark Plugs,5
+02/01/25,Nabil,South,Mumbai,Spark Plugs,4
+03/01/25,Nabil,South,Mumbai,Spark Plugs,3
+03/01/25,Julie,South,Kolkata,Spark Plugs,2
+01/01/25,Nicole,East,Hyd,Spark Plugs,2
+01/01/25,Julie,East,Jaipur,Spark Plugs,2
